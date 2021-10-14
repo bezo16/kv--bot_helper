@@ -1,0 +1,54 @@
+* {margin:0px;padding:0px;box-sizing: border-box;}
+
+body {
+    background: rgb(255, 255, 255);
+}
+
+
+header {
+    font-size: 2rem;
+    text-align: center;
+    margin: 70px 0px;
+}
+
+main {
+    max-width: 1400px;
+    margin: 0px auto;
+}
+
+div {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 20px;
+    margin-left: -40px;
+}
+
+h2 {
+    font-size: 2rem;
+    width: 15%;
+    margin: 15px 10px;
+    min-width: 170px;
+}
+
+p {
+    color: rgb(99, 83, 83);
+}
+
+section {
+    margin-bottom: 10%;
+}
+
+footer {
+    margin-top: 20%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.example {
+    margin-top: 1%;
+    color: grey;
+}
